@@ -1,4 +1,6 @@
-const data = {
+
+  
+  const data = {
     "settings": {
         "title": "2022春販売 販売・予約サイト",
         "date": "4/6(水)～4/15(金) ※土日除く",
@@ -7,136 +9,6 @@ const data = {
         "fontFamily": "font-family: 'Zen Maru Gothic', sans-serif;"
     },
     "books": [
-        {
-            "isbn": 9789880030598,
-            "title": "English Firsthand (4th Edition) 1: Student Book with Audio CD",
-            "author": "Marc Hergesen",
-            "publisher": "Pearson Longman",
-            "originalPrice": 2910,
-            "sellingPrice": 1455,
-            "genre": "英語",
-            "stock": 1
-        },
-        {
-            "isbn": 9789813130234,
-            "title": "ENGLISH FIRSTHAND 2",
-            "author": "Marc Helgesen",
-            "publisher": "Pearson",
-            "originalPrice": 2910,
-            "sellingPrice": 1455,
-            "genre": "英語",
-            "stock": 2
-        },
-        {
-            "isbn": 9789813130227,
-            "title": "ENGLISH FIRST HAND 1",
-            "author": "Marc Helgesen",
-            "publisher": "Pearson",
-            "originalPrice": 2910,
-            "sellingPrice": 1455,
-            "genre": "英語",
-            "stock": 1
-        },
-        {
-            "isbn": 9789620199325,
-            "title": "New Edition Impact Issues 3",
-            "author": "Richard R. Day",
-            "publisher": "PEARSON",
-            "originalPrice": 3454,
-            "sellingPrice": 1727,
-            "genre": "英語",
-            "stock": 2
-        },
-        {
-            "isbn": 9789620199318,
-            "title": "Impacts Issued 2",
-            "author": "Richard R Day",
-            "publisher": "Pearson Longman",
-            "originalPrice": 3140,
-            "sellingPrice": 1570,
-            "genre": "英語",
-            "stock": 6
-        },
-        {
-            "isbn": 9788976998576,
-            "title": "結婚移民者と共に学ぶ韓国語③",
-            "author": "ジャンウンフェ",
-            "publisher": "オンラインマーケティング",
-            "originalPrice": 1450,
-            "sellingPrice": 725,
-            "genre": "第二言語",
-            "stock": 2
-        },
-        {
-            "isbn": 9788955189322,
-            "title": "結婚移民者と共に学ぶ韓国語②",
-            "author": "ジャンウンフェ",
-            "publisher": "オンラインマーケティング",
-            "originalPrice": 1450,
-            "sellingPrice": 725,
-            "genre": "第二言語",
-            "stock": 2
-        },
-        {
-            "isbn": 9788955189315,
-            "title": "結婚移民者と共に学ぶ韓国語①",
-            "author": "ジャンウンフェ",
-            "publisher": "オンラインマーケティング",
-            "originalPrice": 1450,
-            "sellingPrice": 725,
-            "genre": "第二言語",
-            "stock": 2
-        },
-        {
-            "isbn": 9788953934283,
-            "title": "서울대 한국어",
-            "author": "최은규 Choi Eunkyu",
-            "publisher": "TWO PONDS",
-            "originalPrice": 1909,
-            "sellingPrice": 955,
-            "genre": "第二言語",
-            "stock": 1
-        },
-        {
-            "isbn": 9788877157355,
-            "title": "Linea diretta Nuovo (v. 1a)",
-            "author": "Conforti, Corrado",
-            "publisher": null,
-            "originalPrice": 4000,
-            "sellingPrice": 2000,
-            "genre": "第二言語",
-            "stock": 1
-        },
-        {
-            "isbn": 9788875734398,
-            "title": "che storia!",
-            "author": "Gabriele Pallotti",
-            "publisher": "Bonaccieditore",
-            "originalPrice": 7138,
-            "sellingPrice": 3569,
-            "genre": "第二言語",
-            "stock": 1
-        },
-        {
-            "isbn": 9788875734275,
-            "title": "gramm.it  grammatica italiana per stranieri",
-            "author": "G.Iacovoni",
-            "publisher": "Bonacci editore",
-            "originalPrice": 20.3,
-            "sellingPrice": 11,
-            "genre": "第二言語",
-            "stock": 1
-        },
-        {
-            "isbn": 9788855700160,
-            "title": "Civiltapuntoit",
-            "author": "Marco Mezzadri",
-            "publisher": null,
-            "originalPrice": 3000,
-            "sellingPrice": 1500,
-            "genre": "第二言語",
-            "stock": 1
-        },
         {
             "isbn": 9787301077658,
             "title": "実用韓日英漢分類辞典",
@@ -509,3 +381,4 @@ const data = {
         }
     ]
 }
+  
